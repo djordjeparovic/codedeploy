@@ -7,7 +7,7 @@ permissions:
    - object: /home/node-fe/test-web-app
      pattern: "**"
      owner: node-fe
-     group: node-fe
+     group: src
      mode: 755
      type:
        - file
